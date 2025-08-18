@@ -1,7 +1,9 @@
 👋 ¡Hola! Soy Bryan
 
 💡 Apasionado por el análisis de datos y la inteligencia de negocios.
+
 📊 Me gusta transformar datos en información clara para la toma de decisiones.
+
 🚀 Actualmente desarrollo proyectos con Python, SQL y Power BI.
 
 <!--
