@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 ¡Hola! Soy Bryan
+
+💡 Apasionado por el análisis de datos y la inteligencia de negocios.
+📊 Me gusta transformar datos en información clara para la toma de decisiones.
+🚀 Actualmente desarrollo proyectos con Python, SQL y Power BI.
 
 <!--
 **bryan1306/bryan1306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
