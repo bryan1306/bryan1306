@@ -18,7 +18,7 @@ Actualmente me enfoco en proyectos con **Python, SQL, Power BI y Excel**.
 🔹 [**Análisis de Ventas de Videojuegos**](https://github.com/bryan1306/proyecto-videojuegos)  
 *Exploración de dataset histórico para detectar patrones de ventas y planificar campañas publicitarias.*  
 
-🔹 [**Dashboard de Indicadores de Negocio**]((https://github.com/bryan1306/proyecto_sprint_11))  
+🔹 [**Dashboard de Indicadores de Negocio**](https://github.com/bryan1306/proyecto_sprint_11)  
 *Dashboard interactivo en Power BI para seguimiento de métricas clave.*  
 
 🔹 [**Limpieza y Transformación de Datos con Python**](https://github.com/bryan1306/proyecto_sprint_10)  
