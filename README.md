@@ -35,4 +35,4 @@ Actualmente me enfoco en proyectos con **Python, SQL, Power BI y Excel**.
 
 ## 🌐 Conéctemos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
-📩 **Email:** tuemail@ejemplo.com  
+📩 **Email:** bryanbarrioscarlier@gmail.com 
