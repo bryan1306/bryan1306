@@ -1,22 +1,38 @@
-👋 ¡Hola! Soy Bryan
+# 👋 ¡Hola! Soy Bryan  
 
-💡 Apasionado por el análisis de datos y la inteligencia de negocios.
+📊 **Analista de Datos en formación**  
+Me apasiona convertir datos en información clara y visual para la toma de decisiones.  
+Actualmente me enfoco en proyectos con **Python, SQL, Power BI y Excel**.  
 
-📊 Me gusta transformar datos en información clara para la toma de decisiones.
+---
 
-🚀 Actualmente desarrollo proyectos con Python, SQL y Power BI.
+## 🛠️ Tecnologías y Herramientas
+- 📌 Lenguajes: **Python (Pandas, NumPy, Matplotlib, Seaborn)**, **SQL**  
+- 📊 Visualización: **Power BI, Excel, Matplotlib**  
+- 🗄️ Bases de Datos: **MySQL, PostgreSQL**  
+- 🛠️ Control de versiones: **Git & GitHub**  
 
-<!--
-**bryan1306/bryan1306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Proyectos Destacados
+🔹 [**Análisis de Ventas de Videojuegos**](https://github.com/bryan1306/proyecto-videojuegos)  
+*Exploración de dataset histórico para detectar patrones de ventas y planificar campañas publicitarias.*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 [**Dashboard de Indicadores de Negocio**](https://github.com/bryan1306/dashboard-negocio)  
+*Dashboard interactivo en Power BI para seguimiento de métricas clave.*  
+
+🔹 [**Limpieza y Transformación de Datos con Python**](https://github.com/bryan1306/etl-datos)  
+*Procesos de ETL con Pandas para preparar datasets de gran volumen.*  
+
+---
+
+## 📊 Mis Estadísticas en GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bryan1306&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan1306&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Conéctemos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
+📩 **Email:** tuemail@ejemplo.com  
