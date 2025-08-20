@@ -21,7 +21,7 @@ Actualmente me enfoco en proyectos con **Python, SQL, Power BI y Excel**.
 🔹 [**Dashboard de Indicadores de Negocio**](https://github.com/bryan1306/proyecto_sprint_11)  
 *Dashboard interactivo en Power BI para seguimiento de métricas clave.*  
 
-🔹 [**Limpieza y Transformación de Datos con Python**](https://github.com/bryan1306/proyecto_sprint_10)  
+🔹 [**Limpieza y Transformación de Datos con Python**](https://github.com/bryan1306/sprint_proyecto_10)  
 *Procesos de ETL con Pandas para preparar datasets de gran volumen.*  
 
 ---
